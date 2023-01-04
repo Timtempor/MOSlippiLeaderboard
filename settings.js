@@ -9,9 +9,9 @@ module.exports = {
 
   // add repo path for username.github.io/repoPath for react router to recognize paths,
   // use only when deployed to github.io, leave as null for deployments with custom domains
-  repoPath: 'https://grantismo.github.io/CoSlippiLeaderboard/',
+  repoPath: 'https://Timtempor.github.io/MOSlippiLeaderboard/',
 
   // Google sheets ID for player connect codes.
   // https://docs.google.com/spreadsheets/d/[YOUR ID]
-  spreadsheetID: '1DPIFD0RUA3yjruregmFUbUJ7ccdOjVB2LBp0goHvL-A',
+  spreadsheetID: '1Ayn4Vvn6ST_XTaXfWiaQy-tLIClqhMpn0hijv4b0RUo',
 };
